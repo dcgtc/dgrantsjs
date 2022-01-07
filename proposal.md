@@ -122,5 +122,13 @@ into public repo.
   demand.
 * `Framework` a collection of libraries that provide a developer with pre-written code that suggests a particular
   context to develop the application in.
-* `Protocol` 
- 
+* `Protocol`
+
+## Outstanding Questions
+
+---
+
+* solidified protocol decisions
+* functionality we want to expose
+* third party integrations we want to support
+* single vs multi-chain
